@@ -1,1 +1,80 @@
-{}
+{
+  "dropdowns": [
+    {
+      "id": 0,
+      "classes": "list",
+      "list": [
+        {
+          "id": 0,
+          "title": "New message",
+          "selected": false,
+          "route": "page1"
+        },
+        {
+          "id": 1,
+          "title": "Archived",
+          "selected": false,
+          "route": "page2"
+        }
+      ],
+      "header": {
+        "icon": "IoIosMailUnread",
+        "text": "",
+        "classes": "simpleButtonIcon"
+      }
+    },
+    {
+      "id": 1,
+      "classes": "list",
+      "list": [
+        {
+          "id": 0,
+          "title": "Ghost",
+          "selected": false
+        }
+      ],
+      "header": {
+        "icon": "IoIosNotificationsOutline",
+        "text": "",
+        "classes": "simpleButtonIcon"
+      }
+    },
+    {
+      "id": 2,
+      "classes": "list",
+      "list": [
+        {
+          "id": 0,
+          "title": "Account",
+          "selected": false
+        },
+        {
+          "id": 1,
+          "title": "Features",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "title": "History",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "title": "Support",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "title": "Sign out",
+          "selected": false,
+          "route": "user"
+        }
+      ],
+      "header": {
+        "icon": "MdFace",
+        "text": "Account",
+        "classes": "simpleButtonIcon"
+      }
+    }
+  ]
+}
