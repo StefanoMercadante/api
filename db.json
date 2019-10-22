@@ -18,7 +18,7 @@
         }
       ],
       "header": {
-        "icon": "IoIosMailUnread",
+        "icon": "mail",
         "text": "",
         "classes": "simpleButtonIcon"
       }
@@ -34,7 +34,7 @@
         }
       ],
       "header": {
-        "icon": "IoIosNotificationsOutline",
+        "icon": "notification",
         "text": "",
         "classes": "simpleButtonIcon"
       }
@@ -71,7 +71,7 @@
         }
       ],
       "header": {
-        "icon": "MdFace",
+        "icon": "account",
         "text": "Account",
         "classes": "simpleButtonIcon"
       }
