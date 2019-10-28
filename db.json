@@ -21,7 +21,7 @@
         "icon": "mail",
         "text": "",
         "classes": "simpleButtonIcon",
-        "call": "https://my-json-server.typicode.com/catia9507/api"
+        "call": "https://my-json-server.typicode.com/catia9507/api/messages"
       }
     },
     {
