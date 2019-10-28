@@ -38,7 +38,7 @@
         "icon": "notification",
         "text": "",
         "classes": "simpleButtonIcon",
-        "call": null
+        "call": "https://my-json-server.typicode.com/catia9507/api/alerts"
       }
     },
     {
