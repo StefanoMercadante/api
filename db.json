@@ -20,7 +20,7 @@
       "header": {
         "icon": "mail",
         "text": "",
-        "classes": "simpleButtonIcon",
+        "classes": "buttonIcon",
         "call": "https://my-json-server.typicode.com/catia9507/api/messages"
       }
     },
@@ -37,7 +37,7 @@
       "header": {
         "icon": "notification",
         "text": "",
-        "classes": "simpleButtonIcon",
+        "classes": "buttonIcon",
         "call": "https://my-json-server.typicode.com/catia9507/api/alarms"
       }
     },
@@ -75,7 +75,7 @@
       "header": {
         "icon": "account",
         "text": "Account",
-        "classes": "simpleButtonIcon",
+        "classes": "buttonIcon",
         "call": null
       }
     }
