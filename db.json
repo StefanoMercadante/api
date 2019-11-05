@@ -1,74 +1,27 @@
 {
-  "dropdowns": [
-    {
-      "id": 0,
-      "icon": "mail",
-      "text": "",
-      "classes": "buttonIcon",
-      "call": "https://my-json-server.typicode.com/catia9507/api/messages",
-      "list": [
-        {
-          "id": 0,
-          "title": "New message",
-          "selected": false,
-          "route": "page1"
-        },
-        {
-          "id": 1,
-          "title": "Archived",
-          "selected": false,
-          "route": "page2"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "icon": "notification",
-      "text": "",
-      "classes": "buttonIcon",
-      "call": "https://my-json-server.typicode.com/catia9507/api/alarms",
-      "list": [
-        {
-          "id": 0,
-          "title": "Ghost",
-          "selected": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "icon": "account",
-      "text": "Account",
-      "classes": "buttonIcon",
-      "call": null,
-      "list": [
-        {
-          "id": 0,
-          "title": "Account",
-          "selected": false
-        },
-        {
-          "id": 1,
-          "title": "Features",
-          "selected": false
-        },
-        {
-          "id": 2,
-          "title": "History",
-          "selected": false
-        },
-        {
-          "id": 3,
-          "title": "Support",
-          "selected": false
-        },
-        {
-          "id": 4,
-          "title": "Sign out",
-          "selected": false,
-          "route": "user"
-        }
-      ]
-    }
-  ]
+	"columns": [
+		{
+			"dataField": "id",
+			"text": "Product ID",
+			"classes": "tableCol key-tableCol",
+			"headerClasses": "tableHeader"
+		},
+		{
+			"dataField": "name",
+			"text": "Product Name",
+			"classes": "tableCol",
+			"headerClasses": "tableHeader"
+		},
+		{
+			"dataField": "value",
+			"text": "Product Price",
+			"classes": "tableCol",
+			"headerClasses": "tableHeader"
+		}
+	],
+	"data": [
+		{ "id": 1, "name": "Gob", "value": 2 },
+		{ "id": 2, "name": "Buster", "value": 5 },
+		{ "id": 3, "name": "George Michael", "value": 4 }
+	]
 }
