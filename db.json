@@ -26,11 +26,11 @@
 		}
 	],
 	"data": [
-		{ "id": 0, "title": "Pagina 1", "category": "Designer", "created": "14/06/2019", "expiry": "24/06/2019" },
-		{ "id": 1, "title": "Pagina 13", "category": "Designer", "created": "14/06/2019", "expiry": "24/09/2019" },
-		{ "id": 2, "title": "Pagina 21", "category": "Designer", "created": "14/06/2019", "expiry": "24/12/2019" },
-		{ "id": 3, "title": "Pagina 2", "category": "UX", "created": "12/03/2019", "expiry": "24/12/2019" },
-		{ "id": 4, "title": "Pagina 12", "category": "UX", "created": "12/03/2019", "expiry": "24/06/2020" },
-		{ "id": 5, "title": "Pagina 3", "category": "Developer", "created": "24/02/2018", "expiry": "30/06/2019" }
+		{ "id": 0, "title": "Sacred Flying", "slug": "sacred-flying", "category": "Designer", "created": "14/06/2019", "expiry": "24/06/2019" },
+		{ "id": 1, "title": "The Rough Window", "slug": "the-rough-window", "category": "Designer", "created": "14/06/2019", "expiry": "24/09/2019" },
+		{ "id": 2, "title": "Gift of Dying", "slug": "gift-of-dying", "category": "Designer", "created": "14/06/2019", "expiry": "24/12/2019" },
+		{ "id": 3, "title": "The Spark's Slave", "slug": "the-sparks-slave", "category": "UX", "created": "12/03/2019", "expiry": "24/12/2019" },
+		{ "id": 4, "title": "The Twilight of the Sparks", "slug": "the-twilight-of-the-sparks", "category": "UX", "created": "12/03/2019", "expiry": "24/06/2020" },
+		{ "id": 5, "title": "Flight in the Thoughts", "slug": "flight-in-the-thoughts", "category": "Developer", "created": "24/02/2018", "expiry": "30/06/2019" }
 	]
 }
