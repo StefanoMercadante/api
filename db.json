@@ -1,30 +1,4 @@
 {
-	"columns": [
-		{
-			"dataField": "title",
-			"text": "Title",
-			"classes": "tableCol key-tableCol",
-			"headerClasses": "tableHeader"
-		},
-		{
-			"dataField": "category",
-			"text": "Category",
-			"classes": "tableCol",
-			"headerClasses": "tableHeader"
-		},
-		{
-			"dataField": "created",
-			"text": "Insert Date",
-			"classes": "tableCol",
-			"headerClasses": "tableHeader"
-    },
-    {
-			"dataField": "expiry",
-			"text": "Expiry",
-			"classes": "tableCol",
-			"headerClasses": "tableHeader"
-		}
-	],
 	"data": [
 		{ "id": 0, "title": "Sacred Flying", "slug": "sacred-flying", "category": "Designer", "created": "14/06/2019", "expiry": "24/06/2019" },
 		{ "id": 1, "title": "The Rough Window", "slug": "the-rough-window", "category": "Designer", "created": "14/06/2019", "expiry": "24/09/2019" },
